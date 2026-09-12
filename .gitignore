@@ -1,0 +1,14 @@
+# Large Flight Dataset
+dataset/flight_data_2024.csv
+
+# Java compiled files
+mapreduce/classes/
+
+# Temporary files
+*.class
+*.log
+*.tmp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
